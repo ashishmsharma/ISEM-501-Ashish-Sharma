@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>BIOMED</title>
+
+
+<button type="button"
+onclick="document.getElementById('showTime').innerHTML = Date()">
+Let me show you time.</button>
+
+<p id="showTime"></p>
+
+  <link rel="stylesheet" type="text/css" media="screen" href="css/default.css" />
+  
+</head>
+<body id="index_page"> 
+	<div id="wrapper">
+		<div id="header">
+        	<h1 style="color: Blue margin-left:3px;padding-top:12px; padding-left:53px; font-size:45px;" >BioMed</h1>
+        </div>    
+		<ul id="navigation">
+            <li id="contact_us"><a href="contact-us.html">Contact Us</a></li>
+			<li id="Instruments"><a href="Instrument.html">Instruments</a></li>
+            <li id="about_us"><a href="about-us.html">About Us</a></li>
+            <li id="index"><a href="index.html">Home</a></li>
+        </ul>	
+		
+	<div id="content">
+
+
+
+
+			<h2 class="clear" style="color:blue margin-left:3px;padding-top:12px; padding-left:53px; font-size:45px;"> <b>Welcome to the world of Biomedical Devices.</b></h2>
+            <p class="clear" style="color:white"> <b>Our deidecated team of scientists working 24/7 to develop ground breaking medical devices for the department of oncology
+			hepatology, We are the US based company, supply products in Asis, Middle East, North American and South America.</b></p>
+				
+
+
+            		
+                <p><img src="images/header-bg.jpg" alt="GT letters" /></p>
+			                
+			           
+            
+            
+            
+           
+		</div>
+	</div>
+</body>
+</html>
+
+******Reference: www.w3school.com****
+
+
